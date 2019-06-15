@@ -2,6 +2,7 @@
 Support x16r/x16s/xevan/x17/phi/tribus/aergo/polytimos/geek/skunk algos. It contains 1% dev fee. 
 
 ## This miner is rewriten SGMINER version with some fixes and new coins support
+## Download it form releases
 
 To get best perfomance start with -X 256, also you could add -g 2, to execute algos in 2 threads, it could give you better perfomance. Also use -w 256 for phi, polytimos, skunk, c11 algos
 
